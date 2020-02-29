@@ -23,6 +23,7 @@ SSH official website : https://www.ssh.com <br />
 **_SSH related technologies_** <br />
 FileZilla : https://filezilla-project.org <br />
 PuTTY : https://www.putty.org/ <br />
+git for windows : https://gitforwindows.org/ <br />
 
 **_SSH documentation by ssh.com_**
 sshd by ssh.com : https://www.ssh.com/ssh/sshd <br />
