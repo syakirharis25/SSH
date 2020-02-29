@@ -20,10 +20,12 @@ SSH was designed as a replacement for Telnet and for unsecured remote shell prot
 ## 2. Official references websites. 
 SSH official website : https://www.ssh.com <br />
 
+**_SSH related technologies_** <br />
+FileZilla : https://filezilla-project.org <br />
+
 **_SSH developers_** <br />
 Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh <br />
 Edward Snowden : https://twitter.com/Snowden <br />
-
  
 <a name="github"></a>
 ## 3. GitHub notes.
