@@ -23,6 +23,9 @@ SSH official website : https://www.ssh.com <br />
 **_SSH related technologies_** <br />
 FileZilla : https://filezilla-project.org <br />
 
+**_SSH documentation by ssh.com_**
+sshd by ssh.com : https://www.ssh.com/ssh/sshd <br />
+
 **_SSH developers_** <br />
 Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh <br />
 Edward Snowden : https://twitter.com/Snowden <br />
