@@ -4,8 +4,9 @@ My works related to Secure Socket Shell (SSH), a network protocol that gives use
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [SSH developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -28,12 +29,13 @@ git for windows : https://gitforwindows.org/ <br />
 **_SSH documentation by ssh.com_**
 sshd by ssh.com : https://www.ssh.com/ssh/sshd <br />
 
-**_SSH developers_** <br />
-Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh <br />
+<a name="developers"></a>
+## 3. SSH developers.
 Edward Snowden : https://twitter.com/Snowden <br />
+Tatu Ylonen : https://github.com/tatuylonen, https://ylonen.org, https://twitter.com/tjssh <br />
  
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/SSH.git
@@ -43,7 +45,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
